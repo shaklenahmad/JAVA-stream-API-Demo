@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaklen Ahmad and i am a Software Devloper.
+- 👋 Hi, I’m Shaklen Ahmad and i am a Software Developer.
 - 👀 I’m interested in Java Spring Boot and Microservices.
 - 🌱 I’m currently working on Spring Boot,JPA,Hibernate and AWS. 
 - 💞️ I’m looking to collaborate on Spring Boot related Projects.
